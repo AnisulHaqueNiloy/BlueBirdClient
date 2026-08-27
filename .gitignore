@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# build files
+dist/
+build/
+
+# env files
+ 
+.env.local
+
+# logs
+*.log
+
+# editor
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
